@@ -1,0 +1,16 @@
+$ diff -u ivy-2.10.2.xml ~/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.2.xml
+--- ivy-2.10.2.xml	2013-06-06 20:05:43.000000000 +0200
++++ /Users/pgiarrusso/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.2.xml	2013-06-06 20:05:43.000000000 +0200
+@@ -1,10 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+-<ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
++<ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven" xmlns:e="http://ant.apache.org/ivy/extra">
+ 	<info organisation="org.scala-lang"
+ 		module="scala-library"
+ 		revision="2.10.2"
+ 		status="release"
+ 		publication="20130606200543"
++		e:info.apiURL="http://www.scala-lang.org/api/2.10.2/"
+ 	>
+ 		<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html
+          " />
