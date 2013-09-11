@@ -1,0 +1,6 @@
+$ sbt
+[info] Loading global plugins from /Users/pgiarrusso/.sbt/0.13/plugins
+[info] Set current project to minimal-test-case (in build file:/Users/pgiarrusso/Documents/Research/Sorgenti/minimal-test-case/)
+> show compile:doc::apiMappings
+[info] Map(/Users/pgiarrusso/.sbt/boot/scala-2.10.2/lib/scala-library.jar -> http://www.scala-lang.org/api/2.10.2/)
+[success] Total time: 0 s, completed Sep 12, 2013 12:34:54 AM
