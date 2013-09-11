@@ -1,6 +1,5 @@
-$ diff -u ivy-2.10.2.xml ~/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.2.xml
---- ivy-2.10.2.xml	2013-06-06 20:05:43.000000000 +0200
-+++ /Users/pgiarrusso/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.2.xml	2013-06-06 20:05:43.000000000 +0200
+--- ivy-2.10.2-old.xml	2013-06-06 20:05:43.000000000 +0200
++++ ivy-2.10.2.xml	2013-09-12 00:29:11.000000000 +0200
 @@ -1,10 +1,11 @@
  <?xml version="1.0" encoding="UTF-8"?>
 -<ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
